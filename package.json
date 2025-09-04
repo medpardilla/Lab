@@ -5,8 +5,10 @@
   "scripts": {
     "start": "node server.js"
   },
+  
   "dependencies": {
     "express": "^4.19.2",
-    "multer": "^1.4.5"
+    "multer": "^2.0.2"
   }
 }
+
